@@ -11,3 +11,5 @@
 5. Age & Gender Analysis – Customer demographics based on age groups and gender
    
 6. Channel Contribution – Shows which sales channel contributed the most
+
+https://www.linkedin.com/in/praveen-s-28b9b0259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
